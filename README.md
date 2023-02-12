@@ -2,4 +2,4 @@
 - 👀 I'm an AI enthusiast and a also a Robo head. Also intereseted in ML and Data Science
 - 🌱 Currently Learning DBS
 - 👨‍💻 I'm having knowledge of JAVA, C++, C and PYTHON
-- 📫 How to reach me on discord RASIUT #1180
+- 📫 You can ping me on RASIUT #1180 or rasiut04@gmail.com
