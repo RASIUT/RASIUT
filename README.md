@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RASIUT
-- 👀 I’m interested in AI, Robotics coding, Data Science and information and internet security
-- 🌱 I’m currently learning JAVA
-- 👨‍💻 I know C, C++ and PYTHON also
+- 👀 I'm an AI enthusiast and a also a Robo head. Also intereseted in ML and Data Science
+- 🌱 Currently Learning DBS
+- 👨‍💻 I'm having knowledge of JAVA, C++, C and PYTHON
 - 📫 How to reach me on discord RASIUT #1180
