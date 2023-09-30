@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RASIUT<br>👀 I'm an AI enthusiast and a also a Robo head. Also intereseted in ML and Data Science<br>🌱 Currently Learning Full Stack Development<br>👨‍💻 I'm having knowledge of JAVA, C++, C and PYTHON<br>📫 You can ping me on RASIUT #1180 or rasiut04@gmail.com
+👋 Hi, I’m @RASIUT<br>👀 I'm an AI enthusiast and a also a Robo head. Also intereseted in ML and Data Science<br>🌱 Currently Learning Full Stack Development<br>👨‍💻 I'm having knowledge of JAVA, C++, C , PYTHON, DBS, DSA, ANDROID STUDIO, FLUTTER, DaART<br>📫 You can ping me on rasiut04@gmail.com
 
 
 ## 🌐 Socials:
